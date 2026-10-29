@@ -1,6 +1,6 @@
 # Nura
 
-Nura adalah aplikasi iOS (SwiftUI) untuk membantu pengguna melakukan scan kulit dengan AI, mencatat jadwal & pengingat obat/perawatan, membaca artikel edukasi, serta menyimpan riwayat dan profil pengguna. Backend menggunakan **Firebase** (Authentication, Firestore, Storage).
+Nura adalah aplikasi iOS (SwiftUI) untuk membantu pengguna melakukan scan obat dengan AI, mencatat jadwal & pengingat obat/perawatan, membaca artikel edukasi, serta menyimpan riwayat dan profil pengguna. Backend menggunakan **Firebase** (Authentication, Firestore, Storage).
 
 ## ✨ Fitur Utama
 
